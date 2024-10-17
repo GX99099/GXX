@@ -5,6 +5,9 @@ body {
     background-color: #f0f0f0;
 }
 
+< img src="天鹅城堡.jpg" alt="A description of the photo" width="300" />
+        <nav>
+
 header {
     background-color: #333;
     color: white;
