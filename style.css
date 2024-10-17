@@ -3,6 +3,9 @@ header {
     color: #FBCC83;
     padding: 10px 0;
     text-align: center;
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 body {
@@ -10,7 +13,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #F6F2F1;
-    color: #F9E19E;
+    color: #67384F;
     text-align: center;
     background-image: url('background.jpg');
     background-repeat: no-repeat;
@@ -44,10 +47,12 @@ img {
 }
 
 footer {
-    background-color: #FDECE8;
-    color: #F9E19E;
+    color: #543a34;
     text-align: center;
     padding: 10px;
     width: 100%;
     bottom: 0;
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
