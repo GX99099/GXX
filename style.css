@@ -12,6 +12,7 @@ body {
     color: #67384F;
     text-align: center;
     background-image: url('background.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
