@@ -2,8 +2,6 @@ header {
     color: #FBCC83;
     padding: 10px 0;
     text-align: center;
-    background-image: url('background.jpg');
-    background-size: cover;
 }
 
 body {
@@ -48,6 +46,4 @@ footer {
     padding: 10px;
     width: 100%;
     bottom: 0;
-    background-image: url('background.jpg');
-    background-size: cover;
 }
