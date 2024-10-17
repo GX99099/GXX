@@ -4,7 +4,6 @@ header {
     padding: 10px 0;
     text-align: center;
     background-image: url('background.jpg');
-    background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -16,7 +15,6 @@ body {
     color: #67384F;
     text-align: center;
     background-image: url('background.jpg');
-    background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -53,6 +51,5 @@ footer {
     width: 100%;
     bottom: 0;
     background-image: url('background.jpg');
-    background-repeat: no-repeat;
     background-size: cover;
 }
