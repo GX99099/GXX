@@ -48,3 +48,15 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+.search-container {
+    position: relative;
+    margin-right: auto;
+}
+
+.search-container input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+}
